@@ -1,6 +1,6 @@
 ---
 title: "Personal Webpage"
-date: YYYY-MM-DD
+date: 2020-06-08
 ---
 
 hello
